@@ -5,7 +5,7 @@ The code has references to PiSound which is a sound effects unit that runs on th
 
 It can also run on any pi as I have a few others on my network.
 
-This will show the IP address (updating) of the Raspberry Pi and display it when a Microview USB display is plugged in.
+This will show the IP addresses of first 3 network interfaces (updating) of the Raspberry Pi and display it when a Microview USB display is plugged in.
 
 Microview_pisound_ip.ino runs on the microview and waits for serial input to display
 
