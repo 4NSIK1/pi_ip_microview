@@ -16,7 +16,7 @@ after launcher.sh is created we need to make it executable
 chmod 755 launcher.sh
 
 To add it to a crontab use the command
-sudo contab -e
+sudo crontab -e
 
 and add the line 
 @reboot sh /home/pi/launcher.sh
